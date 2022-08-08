@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.212.224.29:8081/repository/my_paypal/</url>
+	      <url>http://34.220.245.221:4000/content/repositories/ebayCI-Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.212.224.29:8081/repository/my_paypal-snapshot/</url>
+	      <url>http://34.220.245.221:4000/content/repositories/ebayCI-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
