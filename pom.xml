@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.220.245.221:4000/content/repositories/ebayCI-Releases/</url>
+	     <!-- <name>Landmark Technologies Releases Nexus Repository</name>
+	      <url>http://35.88.106.92/:4000/content/repositories/ebayCI-Releases/</url> -->
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.220.245.221:4000/content/repositories/ebayCI-Snapshot/</url>
+	      <url>http://35.88.106.92/:4000/content/repositories/ebayCI-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
